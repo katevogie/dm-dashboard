@@ -1,6 +1,6 @@
 {
-  "homepage": "http://katevogie.github.io/chelsey",
-  "name": "chelsey",
+  "homepage": "http://katevogie.github.io/dm-dashboard",
+  "name": "dm-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
